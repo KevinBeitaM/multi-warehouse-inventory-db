@@ -1,0 +1,10 @@
+# SQL files
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Documentation
+*.md linguist-documentation
+*.dbml linguist-documentation
+
+# Ensure SQL is detected
+*.sql linguist-vendored=false
